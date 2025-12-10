@@ -1,6 +1,6 @@
 # Penghitung Nilai Yudisium
 
-Repository ini berisi sebuah aplikasi sederhana yang dirancang untuk menghitung nilai yudisium berdasarkan input nilai praktek dan teori. Aplikasi ini memungkinkan pengguna untuk menghitung rata-rata nilai dan mendapatkan hasil predikat yudisium secara otomatis, yang dikategorikan dalam beberapa level, seperti 'Sangat Memuaskan', 'Memuaskan', 'Cukup Memuaskan', dan lainnya.
+Repository ini berisi Laporan sebuah Web sederhana yang dirancang untuk menghitung nilai yudisium berdasarkan input nilai praktek dan teori. Aplikasi ini memungkinkan pengguna untuk menghitung rata-rata nilai dan mendapatkan hasil predikat yudisium secara otomatis, yang dikategorikan dalam beberapa level, seperti 'Sangat Memuaskan', 'Memuaskan', 'Cukup Memuaskan', dan lainnya.
 
 ---
 
